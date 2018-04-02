@@ -1,0 +1,5 @@
+/home/seffert/Programming/Kanji Kards/Kanji Kards-PreAlpha/KanjiKards-PreAlpha/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/seffert/Programming/Kanji Kards/Kanji Kards-PreAlpha/KanjiKards-PreAlpha/bin/Debug/KanjiKards-AlphaBuild.pdb
+/home/seffert/Programming/Kanji Kards/Kanji Kards-PreAlpha/KanjiKards-PreAlpha/bin/Debug/KanjiKards-AlphaBuild.exe
+/home/seffert/Programming/Kanji Kards/Kanji Kards-PreAlpha/KanjiKards-PreAlpha/obj/x86/Debug/KanjiKards-AlphaBuild.exe
+/home/seffert/Programming/Kanji Kards/Kanji Kards-PreAlpha/KanjiKards-PreAlpha/obj/x86/Debug/KanjiKards-AlphaBuild.pdb
